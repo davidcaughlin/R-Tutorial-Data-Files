@@ -1,0 +1,11 @@
+EmpID,Facility,JobLevel,StartDate,Org_Tenure_Yrs,OnboardingCompleted
+EP1201,Beaverton,1,2010-05-05,8.6,No
+EP1202,beaverton,1,2008-01-31,10.9,No
+EP1203,Beaverton,-9999,2017-02-05,1.9,No
+EP1204,Portland,5,2018-09-19,0.3,No
+EP1205,,2,2018-09-19,0.3,No
+EP1206,Beaverton,1,2010-03-23,8.8,No
+EP1207,beverton,1,2011-06-01,7.6,No
+EP1208,Portland,4,2010-05-15,8.6,No
+EP1209,Portland,3,2011-04-29,7.7,No
+EP1210,Beaverton,11,2012-07-11,6.5,No

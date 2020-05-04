@@ -1,0 +1,26 @@
+Job_Family,Job_ID,Job_Title,Points,Pay
+OA,OA132,Front Desk Receptionist,300,25000
+OA,OA133,Mail Clerk,401,35095
+OA,OA134,Data Entry Specialist,444,32735
+OA,OA135,Admissions Coordinator,456,29428
+OA,OA136,Call Center Representative,465,30101
+OA,OA137,Office Specialist,469,32613
+OA,OA138,Account Representative,470,39839
+OA,OA139,Administrative Support Assistant,475,40982
+OA,OA140,Live Source Operator,482,37153
+OA,OA141,Accounts Payable Associate,484,30954
+OA,OA143,Accounting Assistant,490,39060
+OA,OA144,Office Technician,505,32775
+OA,OA145,Records Clerk,522,44562
+OA,OA146,Accounting Technician,559,37517
+NU,NU212,Certified Nursing Assistant,573,31080
+OA,OA147,Information Technology Associate,584,38839
+OA,OA142,Statement Services Representative,585,48589
+NU,NU213,Licensed Practical Nurse,660,47256
+OA,OA149,Administrative Assistant,712,48001
+OA,OA148,Accounts Payable Supervisor,740,59554
+NU,NU214,Registered Nurse,757,71424
+NU,NU215,Charge Nurse,802,84864
+NU,NU216,Nurse Practitioner,919,105108
+NU,NU217,Nursing Manager,941,107364
+NU,NU218,Nursing Director,999,131804
